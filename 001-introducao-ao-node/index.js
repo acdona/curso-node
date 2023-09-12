@@ -11,4 +11,4 @@ const calculateDiscount = require("./modules/calculateDiscount")
 
 const finalValue = calculateDiscount(productValue, discountValue)
 
-console.log("O valor final é: " + finalValue)
+console.log(`O valor final é: Valor1: ${productValue} - desconto: ${discountValue} = ${finalValue}`)

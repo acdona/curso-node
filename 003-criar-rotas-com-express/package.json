@@ -1,0 +1,17 @@
+{
+  "name": "003-criar-rotas-com-express",
+  "version": "1.0.0",
+  "description": "criando rotas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "acd",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
