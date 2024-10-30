@@ -1,0 +1,12 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r <br>\r <img src=\"https://github.com/acdona/acd-images/blob/main/images/acd-logotipo-3-2022.png\" alt=\"acdona\" width=\"120\">\r <br>\r Tony <b>Doná Dev FSPHP</b>\r </h1>\r <br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
